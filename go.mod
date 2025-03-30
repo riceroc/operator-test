@@ -1,4 +1,4 @@
-module github.com/ericr/k8s-operator-demo
+module github.com/riceroc/k8s-operator-demo
 
 go 1.21
 
